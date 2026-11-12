@@ -1,4 +1,6 @@
-# Task B: Road Trip Calculator
+# Name: Luke Sprecher
+# Date: 11/11/2026
+# Program: Calculates costs for a road trip based off of multiple variables
 
 # Constants
 AVERAGE_SPEED = 55

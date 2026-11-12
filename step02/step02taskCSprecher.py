@@ -1,5 +1,6 @@
-# Task C: Paycheck Calculator
-# Step 02 - Variables and Input
+# Name: Luke Sprecher
+# Date: 11/11/26
+# Program: Calculates employee take home pay
 
 # Constants
 FEDERAL_TAX_RATE = 0.10
